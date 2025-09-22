@@ -5,7 +5,7 @@ A simple Python script I wrote while learning how to use JSON for saving and rel
 # Features
 
 - Saves program state to 'state.json'
-- Tracks loop iterations with a configurabel trigger
+- Tracks loop iterations with a configurable trigger
 - Performs an action when the trigger is reached
 - Demonstrates how to read, update, and persist JSON data in Python
 
@@ -23,7 +23,8 @@ When the counter reaches the trigger (default = 4), the script performs the acti
 I wanted to practice working with JSON files and saving program state for a larger project.
 This script helped me understand:
 - How to read and write JSON in Python
-- How keep a persistant state between runs
+- How keep a persistent state between runs
 - How to reference JSON objects for use in Python
+
 
 
